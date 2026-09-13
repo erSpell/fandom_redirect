@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node test_redirect.js",
     "validate:json": "python -m json.tool manifest.json > /dev/null",
-    "build": "python scripts/generate_icon.py && python scripts/build_zip.py",
+    "build": "python scripts/build_zip.py",
     "build:zip": "python scripts/build_zip.py"
   },
   "devDependencies": {}
