@@ -1,8 +1,8 @@
 {
-  "name": "fandom-to-antifandom-redirector",
-  "version": "0.1.1",
+  "name": "fandom_redirect",
+  "version": "0.1.0",
   "private": true,
-  "description": "Firefox WebExtension called Fandom to Antifandom that redirects Fandom wiki pages to matching Antifandom wiki pages.",
+  "description": "Firefox WebExtension called fandom_redirect that redirects Fandom wiki pages to matching Antifandom wiki pages.",
   "scripts": {
     "test": "node test_redirect.js",
     "validate:json": "python -m json.tool manifest.json > /dev/null",

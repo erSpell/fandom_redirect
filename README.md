@@ -1,4 +1,4 @@
-Fandom to Antifandom redirects Fandom wiki pages to their matching Antifandom pages.
+fandom_redirect redirects Fandom wiki pages to their matching Antifandom pages.
 
 For example:
 

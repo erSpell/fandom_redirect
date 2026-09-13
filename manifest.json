@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Fandom to Antifandom",
-  "version": "0.1.1",
+  "name": "fandom_redirect",
+  "version": "0.1.0",
   "description": "Redirects Fandom wiki pages to the matching Antifandom wiki page while preserving the page path and query string.",
   "homepage_url": "https://github.com/erSpell",
   "icons": {
@@ -19,7 +19,7 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "fandom-to-antifandom@erspell.local",
+      "id": "fandom_redirect@erspell.local",
       "strict_min_version": "140.0",
       "data_collection_permissions": {
         "required": ["none"]
